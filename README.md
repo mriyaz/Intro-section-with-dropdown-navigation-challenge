@@ -32,7 +32,8 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/mriyaz/intro-section-with-dropdown-navigation-challenge)
-- [Live Site URL](https://intro-section-with-dropdown-navigation-challenge-five.vercel.app/)
+- [Live Site URL](https://intro-section-with-dropdown-navigation-challenge-lyart.vercel.app/)
+
 
 ## My process
 
